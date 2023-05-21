@@ -1,7 +1,4 @@
-package day09collections;
-
-import java.util.Arrays;
-import java.util.Collections;
+package day0910collections;
 
 public class Arrays01 {
     public static void main (String[] args) {

@@ -1,10 +1,4 @@
-package day09collections;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+package day0910collections;
 
 public class List02 {
     public static void main (String[] args) {
